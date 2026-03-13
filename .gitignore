@@ -1,0 +1,15 @@
+# Ignore the backend directory (not meant to be pushed to GitHub)
+backend/
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Environment and dependency directories
+.env
+venv/
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
